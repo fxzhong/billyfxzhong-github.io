@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+This websit has just been built and will be ready in Late September! :sparkles: :smile:
+If you are interested in my research, please temporarily refer to my google scholar website.
