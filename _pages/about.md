@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, Roboticist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: billy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zhixin Building, CUHKSZ</p>
