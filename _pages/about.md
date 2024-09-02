@@ -9,7 +9,7 @@ profile:
   image: billy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zhixin Building, CUHKSZ</p>
+    <p>Zhixin Building, CUHK(SZ)</p>
     <p>2001 Longxiang Boulevard,</p>
     <p>Shenzhen, China</p>
 
