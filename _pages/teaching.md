@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have involved and have been teaching.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+2024-2025 AY Term 1: ECE3060 Introduction to Robotics (Instructor)\
+2019-2020 AY Term 1: MAEG5755 Robotics (TA)\
+2018-2019 AY Term 1: MAEG5755 Robotics (TA)\
+2017-2018 AY Term 1: ENGG 1100 Introduction to Engineering Design (TA Leader)\
+2016-2017 AY Term 2: MAEG 1010 Introduction to Robot Design (TA)\
+2016-2017 AY Term 1: ENGG 1100 Introduction to Engineering Design
