@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-This website is still under construction and will be ready in Late September! 
+This website is still under construction and will be ready in late September. 
 
-If you are interested in my research, please temporarily refer to my google scholar website.
+If you are interested in my research, please temporarily refer to my Google Scholar website.
