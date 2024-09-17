@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: These are my research publications (selected) shown in reversed chronological order.
+description: My selected publications shown in reversed chronological order. † denotes corresponding authorship.
 nav: true
 nav_order: 2
 ---
